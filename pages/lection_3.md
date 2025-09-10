@@ -444,7 +444,7 @@ students['Ivan']['group'] == '09.02.01'
 Вывести список ключей словаря можно с помощью метода `keys()`:
 
 ```python
-students.keys() == ['Ivan', 'Petr]
+students.keys() == ['Ivan', 'Petr']
 ```
 
 Вывести список значений словаря можно с помощью метода `values()`:
