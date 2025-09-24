@@ -8,7 +8,7 @@
     "export": "slidev export --with-clicks"
   },
   "dependencies": {
-    "@slidev/cli": "^52.1.0",
+    "@slidev/cli": "^52.2.4",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "slidev-addon-python-runner": "^0.1.3",

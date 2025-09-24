@@ -1,0 +1,10 @@
+DEBUG:root:quadratic_equation:	a: -2, b: 5, c: -3
+
+DEBUG:root:quadratic_equation:	Discriminant square root: 1.0
+
+DEBUG:root:quadratic_equation:	x1: -5.25, x2: -4.75
+
+DEBUG:root:quadratic_equation:	a: 6, b: -4, c: 5
+
+DEBUG:root:quadratic_equation:	Exception: math domain error
+
